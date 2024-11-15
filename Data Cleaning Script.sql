@@ -1,5 +1,7 @@
 -- Data Cleaning
 
+Skills Used: CTEs, Creating Views, Formatting. 
+
 SELECT *
 FROM layoffs;
 
